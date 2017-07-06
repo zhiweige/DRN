@@ -1,4 +1,4 @@
-name: "ResNet-18"
+name: "DRN-A-18"
 layer {
     name: "data"
     type: "Data"
